@@ -1,0 +1,69 @@
+body{
+    font-family: 'Ranchers', cursive;
+   background-color:  #add8e6;
+   text-align: center;
+}
+.header{
+    background-color: #faf0e6;
+    color: #800000;
+}
+.header img{
+    width: 100px;
+    height: 100px;
+}
+.main_div{
+    padding: 10px;
+    background-color: aquamarine;
+    margin-top: 20px;
+    border:2px solid #db7093;
+}
+.main_div label{
+    background-color: cadetblue;
+    color: crimson;
+    width: 300px;
+    padding:10px;
+    box-shadow: 5px 5px 20px palevioletred;
+}
+#camera,#result{
+    width: 300px;
+    height: 300px;
+    border:2px dashed pink;
+    box-shadow: 5px 5px 20px palevioletred;
+}
+.main_div button{
+    width: 300px;
+    box-shadow: 5px 5px 20px palevioletred;
+    border:2px dashed plum;
+    font-size: 18px;
+}
+.footer_div img{
+    width: 50px;
+    height: 50px;
+    border:2px dotted black;
+    box-shadow: 5px 10px 20px blueviolet;
+}
+.footer_div{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.footer_div h4{
+    background-color: darkkhaki;
+    color: darkred;
+    border-radius: 2px;
+    padding:5px;
+    box-shadow: 5px 10px 20px yellowgreen;
+}
+.copyright{
+    background-color: yellowgreen;
+    position: fixed;
+    color: blueviolet;
+    box-shadow: 5px 10px 20px burlywood;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+}
+img{
+    height :200px;
+    width :100px;
+}
